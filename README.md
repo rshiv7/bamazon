@@ -16,7 +16,7 @@ The app allows the user to view the current inventory of store items: item IDs, 
 
 To run the app please follow the steps below:
 
-```git clone git@github.com:angrbrd/bamazon.git
+```git clone git@github.com:rshiv7/bamazon.git
 cd bamazon
 npm install
 node customer.js
